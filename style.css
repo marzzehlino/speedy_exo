@@ -1,0 +1,31 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background: url(img/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bangers {
+    font-family: 'Bangers', cursive;
+}
+
+.intro {
+    color: #f3a84b;
+    text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+}
+
+.btn-speedy {
+    background-color: #f3a84b !important;
+    color: #222324 !important;
+}
+
+.btn-speedy:hover {
+    background-color: #c2863c !important;
+}
+
+.fs-intro {
+    font-size: 5rem;
+}
